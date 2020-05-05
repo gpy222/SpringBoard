@@ -1,0 +1,26 @@
+,,No_Outliers,With_Outliers
+Coefficients,vertical_drop,1.905925,2.06430536609036
+Coefficients,trams,0.0,-0.2858371069003199
+Coefficients,fastEight,0.0,0.03743594737371132
+Coefficients,fastSixes,0.0,0.46570532451436764
+Coefficients,fastQuads,-0.00195,0.7674824275901431
+Coefficients,quad,0.278725,1.2391269419542095
+Coefficients,triple,1.229914,1.4509746768559135
+Coefficients,double,0.861119,0.26959040600161494
+Coefficients,surface,-0.901449,-1.2504840734198475
+Coefficients,total_chairs,0.620436,0.6418315915926076
+Coefficients,Runs,1.099987,-1.3618733005717083
+Coefficients,TerrainParks,0.230052,-0.28907585642778977
+Coefficients,LongestRun_mi,-0.055306,-0.3166455300392746
+Coefficients,SkiableTerrain_ac,-1.761634,0.12404901273231513
+Coefficients,Snow Making_ac,0.262785,0.08674042494854839
+Coefficients,daysOpenLastYear,1.459799,1.2015221183436806
+Coefficients,yearsOpen,-0.027533,0.25552797351709045
+Coefficients,averageSnowfall,-2.856805,-0.9872765269846918
+Coefficients,AdultWeekday,10.718374,20.128806328233665
+Coefficients,projectedDaysOpen,-0.140035,-0.5877440246052759
+Coefficients,NightSkiing_ac,1.028189,0.4234961467378156
+Coefficients,clusters,2.234782,-2.6478714670093964
+Metrics,Explained_Variance_Score,0.541308,0.93653
+Metrics,Mean_Absolute_Error,7.275362,5.094973
+Metrics,Predicted_Weekend_Price,90.88,87.88
